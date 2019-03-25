@@ -101,7 +101,7 @@ export const summonersById = {
     id: '14',
     title: 'Vchee',
     summonerId: '',
-    twitchUrl: 'http://twitch.tv/vchee',
+    twitchUrl: 'http://twitch.tv/loltyler1',
     opgg: 'https://na.op.gg/summoner/userName=Buff+Mozambique'
   }
 };
